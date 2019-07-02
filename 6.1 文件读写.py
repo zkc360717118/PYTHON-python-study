@@ -30,3 +30,10 @@
 #     with open("output3.txt","w") as f2:
 #         f2.write(f.read())
 
+#二进制文件读取
+# f = open("file/test.jpg",'rb')
+# print(f.read())
+
+#文件和目录的操作
+import os
+print(os.name)

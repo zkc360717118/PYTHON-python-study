@@ -1,0 +1,5 @@
+03-52-2019 13:52:41 root:DEBUG:This is a debug message
+03-52-2019 13:52:41 root:INFO:This is an info message
+03-52-2019 13:52:41 root:WARNING:This is a warning message
+03-52-2019 13:52:41 root:ERROR:This is an error message
+03-52-2019 13:52:41 root:CRITICAL:This is a critical message

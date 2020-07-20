@@ -60,7 +60,7 @@ print(3 in d) #false
 #删除元素
 del(d["a"])
 
-#遍历
+#遍 历
 for key in d:
     print(d[key])
 for k,v in d.items():

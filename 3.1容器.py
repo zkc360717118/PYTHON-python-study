@@ -71,7 +71,7 @@ s_b = set([4,5,6,7,8,9])
 print(s_a)
 print(s_b)
 
-#判断元素是否存在
+#判断 元素是否存在
 print(3 in s_a)
 #并集
 print(s_a | s_b)

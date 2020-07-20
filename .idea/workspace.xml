@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pandas/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/Pandas Data Science Tutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/modified.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/modified_without_index.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/modified_without_index.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/pokemon_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/pokemon_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/pokemon_data.xlsx" afterDir="false" />
+    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="pandas">
+      <change afterPath="$PROJECT_DIR$/pandas/Untitled.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/Pandas Data Science Tutorial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +42,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pandas" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\projects\PYTHON-python-study\pandas" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\projects\PYTHON-python-study\pandas" />
       <recent name="G:\projects\PYTHON-python-study" />
     </key>
   </component>
@@ -53,17 +66,56 @@
       <workItem from="1589886651810" duration="4798000" />
       <workItem from="1590020162051" duration="5386000" />
       <workItem from="1590724313496" duration="971000" />
-      <workItem from="1595253149352" duration="570000" />
+      <workItem from="1595253149352" duration="2739000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1595255461513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595255461513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pandas">
+      <created>1595255858613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595255858613</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2478" y="85" key="CommitChangelistDialog2" timestamp="1595253857739">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2478" y="85" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595253857739" />
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1595253364997">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595253364997" />
+    <state x="2661" y="281" key="Vcs.Push.Dialog.v2" timestamp="1595255861617">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2661" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595255861617" />
   </component>
 </project>

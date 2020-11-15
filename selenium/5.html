@@ -1,0 +1,67 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+<title>用户详细信息</title>
+   </head>
+<body>
+<FormItem label="上传简历">
+    <div className="section-pushInChannel-fileInput">
+        <input id="kevin"  type="file"  name="file" multiple="multiple"></input>
+<!--        <input id="file" onChange={this.handleFileChange} type="file"  name="file" multiple="multiple"></input>-->
+<!--        <input id="kevin2"  type="file"   name="file2">-->
+        <div className="fileTip"></div>
+    </div>
+</FormItem>
+
+  
+</body>
+<script type="text/javascript">
+  handleFileChange = (e) => {
+      const input = e.target;
+       const files = e.target.files;
+       if(files && files[0]) {
+           const file = files[0];
+           if(file.size > 1024 * 1024 *3) {
+               fileTip.innerHTML = '文件大小不能超过3M!';
+               input.value = '';
+               return false;
+           } else {
+               fileTip.innerHTML = '';
+               formData.append("file", file); 
+           }
+       }
+    }
+
+handleSubmitBtnClick = (e) => {
+        const { form } = this.props;
+        e.preventDefault();
+        form.validateFields((err, values) => {
+            if(!fileInput.value) {
+                fileTip.innerHTML = '请选择您要上传的简历';
+            }
+            if(!err) {
+                if(!fileInput.value) {
+                    return;
+                }
+                Object.keys(values).forEach((key) => {
+                    formData.append(key, values[key]);
+                });
+                axios.post('http://120.77.204.211:9091/api/push', formData).then(res => {
+                    if(res.data.success && res.data.retCode === 0) {
+                        // 成功
+                        this.setState({
+                            visible: true,
+                        });
+                        codeTip.innerHTML="";
+                    } else {
+                        // 失败
+                        formData = new FormData(); // 每次失败要重置formdata对象
+                        formData.append('file', fileInput.files[0]);
+                        codeTip.innerHTML="您输入的验证码错误";
+                    }
+                })
+            }
+        })
+    }
+</script>
+</html>

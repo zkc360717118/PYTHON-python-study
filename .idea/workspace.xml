@@ -19,15 +19,40 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="pandas">
-      <change afterPath="$PROJECT_DIR$/pandas/Untitled.py" afterDir="false" />
+    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/SPL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/office/WordReadEx1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/office/WordWriteEx1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/office/temp.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/office/操作费用统计台账..xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/office/需求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pySpark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts/pyechart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts/pyechart_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyspark_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyspark_study/pySpark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TestPassAurgsFromScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/Pandas Data Science Tutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas/Untitled.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/kevin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,17 +66,197 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pandas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\projects\PYTHON-python-study\selenium" />
+      <recent name="G:\projects\PYTHON-python-study" />
       <recent name="G:\projects\PYTHON-python-study\pandas" />
+      <recent name="G:\projects\PYTHON-python-study\pyecharts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\projects\PYTHON-python-study\pandas" />
       <recent name="G:\projects\PYTHON-python-study" />
+      <recent name="G:\projects\PYTHON-python-study\office" />
+      <recent name="G:\projects\PYTHON-python-study\pyecharts" />
+      <recent name="G:\projects\PYTHON-python-study\pandas" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.upload">
+    <configuration name="3.2切片" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PYTHON-python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.2切片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPassAurgsFromScript" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON-python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/TestPassAurgsFromScript.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WordReadEx1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON-python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/office" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/office/WordReadEx1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe" type="PythonConfigurationType" factoryName="Python">
+      <module name="PYTHON-python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\allcode\python\venvForAllProject\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\projects\PYTHON-python-study\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pySpark (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON-python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pySpark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pySpark" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON-python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyspark_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyspark_study/pySpark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON-python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium/upload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.3.2切片" />
+      <item itemvalue="Python.exe" />
+      <item itemvalue="Python.WordReadEx1" />
+      <item itemvalue="Python.pySpark" />
+      <item itemvalue="Python.pySpark (1)" />
+      <item itemvalue="Python.TestPassAurgsFromScript" />
+      <item itemvalue="Python.upload" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.upload" />
+        <item itemvalue="Python.TestPassAurgsFromScript" />
+        <item itemvalue="Python.pySpark (1)" />
+        <item itemvalue="Python.pySpark" />
+        <item itemvalue="Python.WordReadEx1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -66,7 +271,20 @@
       <workItem from="1589886651810" duration="4798000" />
       <workItem from="1590020162051" duration="5386000" />
       <workItem from="1590724313496" duration="971000" />
-      <workItem from="1595253149352" duration="2739000" />
+      <workItem from="1595253149352" duration="2779000" />
+      <workItem from="1595398944365" duration="3535000" />
+      <workItem from="1595749681048" duration="5518000" />
+      <workItem from="1595907658458" duration="659000" />
+      <workItem from="1595945579153" duration="2206000" />
+      <workItem from="1596250532492" duration="6028000" />
+      <workItem from="1598060731729" duration="857000" />
+      <workItem from="1598061607426" duration="3084000" />
+      <workItem from="1598065267179" duration="3938000" />
+      <workItem from="1598197975590" duration="838000" />
+      <workItem from="1599986339041" duration="728000" />
+      <workItem from="1605315053992" duration="2003000" />
+      <workItem from="1605401449871" duration="1056000" />
+      <workItem from="1605402712454" duration="4961000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1595255461513</created>
@@ -82,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595255858613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pandas">
+      <created>1595256302335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595256302335</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +323,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -105,17 +331,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="pandas" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2478" y="85" key="CommitChangelistDialog2" timestamp="1595253857739">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598067552187">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2478" y="85" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595253857739" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1595253364997">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598067552187" />
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1605404725339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605404725339" />
+    <state x="2738" y="267" key="EnvironmentVariablesDialog" timestamp="1598067523373">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595253364997" />
-    <state x="2661" y="281" key="Vcs.Push.Dialog.v2" timestamp="1595255861617">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2738" y="267" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598067523373" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1605408274255">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2661" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595255861617" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274255" />
+    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213713" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1605408274251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274251" />
+    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213712" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1605408274251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274251" />
+    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213712" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1605408274254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274254" />
+    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213712" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605408183636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605408183636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605408183636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605408183636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$exe.coverage" NAME="exe Coverage Results" MODIFIED="1595945994631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$WordWriteEx1.coverage" NAME="WordWriteEx1 Coverage Results" MODIFIED="1596253726628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1595945832810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$pySpark__1_.coverage" NAME="pySpark (1) Coverage Results" MODIFIED="1598198213678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$pyechart.coverage" NAME="pyechart Coverage Results" MODIFIED="1595753890119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$upload.coverage" NAME="upload Coverage Results" MODIFIED="1605408274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$3_2.coverage" NAME="3.2切片 Coverage Results" MODIFIED="1595750542509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$pySpark.coverage" NAME="pySpark Coverage Results" MODIFIED="1598064773760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyspark_study" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$test.coverage" NAME="test Coverage Results" MODIFIED="1595949221677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$WordReadEx1.coverage" NAME="WordReadEx1 Coverage Results" MODIFIED="1598064722224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$TestPassAurgsFromScript.coverage" NAME="TestPassAurgsFromScript Coverage Results" MODIFIED="1599986890287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
 </project>

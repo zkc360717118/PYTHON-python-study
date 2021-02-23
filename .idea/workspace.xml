@@ -19,28 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/SPL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/office/WordReadEx1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/office/WordWriteEx1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/office/temp.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/office/操作费用统计台账..xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/office/需求.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pySpark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts/pyechart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyecharts/pyechart_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspark_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspark_study/pySpark.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium/5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium/upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TestPassAurgsFromScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="selinum study">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/Untitled.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/kevin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyspark_study/pySpark.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyspark_study/pySpark.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +65,7 @@
       <recent name="G:\projects\PYTHON-python-study\pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.upload">
+  <component name="RunManager" selected="Python.pySpark">
     <configuration name="3.2切片" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PYTHON-python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,10 +231,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pySpark" />
         <item itemvalue="Python.upload" />
         <item itemvalue="Python.TestPassAurgsFromScript" />
         <item itemvalue="Python.pySpark (1)" />
-        <item itemvalue="Python.pySpark" />
         <item itemvalue="Python.WordReadEx1" />
       </list>
     </recent_temporary>
@@ -284,7 +265,9 @@
       <workItem from="1599986339041" duration="728000" />
       <workItem from="1605315053992" duration="2003000" />
       <workItem from="1605401449871" duration="1056000" />
-      <workItem from="1605402712454" duration="4961000" />
+      <workItem from="1605402712454" duration="5596000" />
+      <workItem from="1605711596732" duration="591000" />
+      <workItem from="1614093134468" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1595255461513</created>
@@ -307,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595256302335</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="selinum study">
+      <created>1605408478791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605408478791</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,57 +318,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="pandas" />
+    <MESSAGE value="selinum study" />
+    <option name="LAST_COMMIT_MESSAGE" value="selinum study" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598067552187">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598067552187" />
-    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1605404725339">
+    <state x="560" y="104" key="CommitChangelistDialog2" timestamp="1614093764438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605404725339" />
-    <state x="2738" y="267" key="EnvironmentVariablesDialog" timestamp="1598067523373">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2738" y="267" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598067523373" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1605408274255">
+    <state x="560" y="104" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614093764438" />
+    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1614095839885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274255" />
-    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213713" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1605408274251">
+    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614095839885" />
+    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1614095839885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274251" />
-    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213712" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1605408274251">
+    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614095839885" />
+    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1614095839884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274251" />
-    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213712" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1605408274254">
+    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614095839884" />
+    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1614095839885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408274254" />
-    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198213712" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605408183636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605408183636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605408183636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605408183636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605408183636" />
+    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614095839885" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PYTHON_python_study$exe.coverage" NAME="exe Coverage Results" MODIFIED="1595945994631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
@@ -388,7 +351,7 @@
     <SUITE FILE_PATH="coverage/PYTHON_python_study$pyechart.coverage" NAME="pyechart Coverage Results" MODIFIED="1595753890119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$upload.coverage" NAME="upload Coverage Results" MODIFIED="1605408274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$3_2.coverage" NAME="3.2切片 Coverage Results" MODIFIED="1595750542509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PYTHON_python_study$pySpark.coverage" NAME="pySpark Coverage Results" MODIFIED="1598064773760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyspark_study" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$pySpark.coverage" NAME="pySpark Coverage Results" MODIFIED="1614095839876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyspark_study" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$test.coverage" NAME="test Coverage Results" MODIFIED="1595949221677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$WordReadEx1.coverage" NAME="WordReadEx1 Coverage Results" MODIFIED="1598064722224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$TestPassAurgsFromScript.coverage" NAME="TestPassAurgsFromScript Coverage Results" MODIFIED="1599986890287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />

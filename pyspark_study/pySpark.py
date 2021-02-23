@@ -26,8 +26,44 @@ def read_json_sql():
         print(i['eyeColor'])
     swimmersJSON.printSchema() # 查看模型树
 
+# 前提条件是hive  的metastore 服务是开启的
+def test_spark_sql_connect_hive_metastore():
+
+    # os.environ["HADOOP_HOME"] = "D:\\hadoop-2.7.1"
+    spark = SparkSession.builder.appName('test_local_conn_hive') \
+    .config("hive.metastore.uris", "thrift://192.168.0.21:9083") \
+    .master("local[*]") \
+    .enableHiveSupport().getOrCreate()
+
+
+    spark.sql('show tables').show()
+    # spark.sql('select distinct id from test_table').show()
+    # # spark.sql('create table copy_table as select * from test_table')
+    # spark.sql('show tables').show()
+    # spark.sql("insert into table test_table values('3', 38)")
+    # spark.sql("insert into table test_table values('4', 48)")
+    # spark.sql('select * from test_table').show()
+
+    spark.stop()
+
+def test_spark_sql_connect_hive_jdbc():
+    spark = SparkSession.builder.appName('test_local_conn_hive') \
+        .master("local[*]") \
+        .enableHiveSupport().getOrCreate()
+
+    jdbcDF = spark.read \
+        .format("jdbc") \
+        .option("url", "jdbc:hive2://192.168.0.21:10000/default") \
+        .option("dbtable", "default") \
+        .option("user", "kevin") \
+        .option("password", "11111") \
+        .load()
+
+    jdbcDF
+
 if __name__ == "__main__":
     # read_json_sql()
     # specify_schema()
     # multi_table_query()
-    print(1)
+    # test_spark_sql_connect_hive_metastore()
+    test_spark_sql_connect_hive_jdbc()

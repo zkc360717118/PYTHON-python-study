@@ -43,7 +43,44 @@ print(s.isnumeric()) #是否是全部由数字组成
 print(s.isalnum()) #全部由数字和字母组成
 
 print("########################替换与合并操作###############################")
+s2="hello,python.python.python"
+print(s2.replace("python","java")) # hello,java.java.java
+print(s2.replace("python","java",2)) #hello,java.java.python  只替换2次
+
+lstr=["A","b","c"]
+print("!".join(lstr)) #A!b!c
+
 print("########################比较操作###############################")
+print("abc" > "ab") # true 因为线比较第一位 发现一样，接着比较下一位，有一样，最后比较发现左边多了C  那就赢了
+print("abc">"dec") # False 因为这里比较原理是： unicode value(编码值)， 调用内置函数ord可以 得到指定字符的编码值. 与内置函数ord 对应的是内置函数chr, 调用内置函数chr时候指定编码值 可以得到其对应的字符。
+print(ord("a"),ord("d")) # 97 100 所以为什么上面a=87 d=100 当比较第一个位置的时候87>100 肯定是false
+print(chr(97),chr(100)) # a  d
+
 print("########################切片操作###############################")
+#[start:end:steps]  和list 一样
+str="hello,python"
+print(str[:5])
+print(str[6:])
+print(str[::-1]) #倒置字符串 nohtyp,olleh
+print(str[1:5:1]) #ello
+
 print("########################格式化操作###############################")
+
+name="kevin"
+age=3
+print("我%s,今年%d岁" % (name,age)) #"格式化第一种"
+print("我{},今年{}岁".format(name,age)) #"格式化第二种"
+print(f"我{name},今年{age}岁") #"格式化第三种"
+print("%10d" % 99) #这里的10是整个的宽度。 这里返回“        99”
+print("%10.3f" % 3.1514926) #这里的10是整个的宽度,小数点后保留3位。 这里返回“     3.151”
+print("今年{:10.3f}岁".format(3.1514926)) #"今年     3.151岁"
+print("今年{:.3f}岁".format(3.1514926)) #"今年3.151岁"
+
 print("########################编码和解码###############################")
+s="天要亡我啊" #5个汉字
+gbk=s.encode(encoding="GBK")
+utf=s.encode(encoding="UTF-8")
+print(gbk) #  b'\xcc\xec\xd2\xaa\xcd\xf6\xce\xd2\xb0\xa1'   GBK 一个汉字占用2个字节, 所以这里有10个字节
+print(utf)# b'\xe5\xa4\xa9\xe8\xa6\x81\xe4\xba\xa1\xe6\x88\x91\xe5\x95\x8a' utf-8一个汉字占用3个字节，所以有15个字节
+
+print(gbk.decode(encoding="gbk")) #天要亡我啊

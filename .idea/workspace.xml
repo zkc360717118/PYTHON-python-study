@@ -22,34 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/akshare/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/akshare/股票策略测试示例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/1.1算术运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/1.2 赋值运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/1.3 比较运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/1.4布尔运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/1.5 位运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PYTHON-python-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON-python-study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="70f75ebd-187e-4b1b-963e-cca441ff7c19" name="Default Changelist" comment="调整结构">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1容器.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/3.1容器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.2切片.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/3.2切片.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.3列表推导.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/3.3列表推导.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.4 生成器.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/3.4 生成器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.5 迭代器.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/3.5 迭代器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 函数和递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/4 函数和递归.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.1 面向对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/5.1 面向对象.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.2 类的实战.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/5.2 类的实战.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1 文件读写.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/6.1 文件读写.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.2装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/6.2装饰器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.1 slot和property.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/7.1 slot和property.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.1 线程-进程-常用模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/8.1 线程-进程-常用模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2正则.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/8.2正则.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3时间和日期.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/8.3时间和日期.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4 内建函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/8.4 内建函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pySpark.py" beforeDir="false" afterPath="$PROJECT_DIR$/pySpark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础/2.2字符串的常用操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础/2.2字符串的常用操作.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,9 +54,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="36e70c3d-c80c-4ef8-90a0-9b111a52eb75" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="1c7jiDFHRqxMCxmFyMsImPLAW9N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -92,6 +68,7 @@
     "Python.1.1运算符.executor": "Run",
     "Python.1.2 赋值运算符.executor": "Run",
     "Python.1.3 比较运算符.executor": "Run",
+    "Python.2.2字符串的常用操作.executor": "Run",
     "Python.3.1容器.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -122,30 +99,7 @@
       <recent name="G:\projects\PYTHON-python-study\pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1.3 比较运算符">
-    <configuration name="股票策略测试示例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON-python-study" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/akshare" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/akshare/股票策略测试示例.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2.2字符串的常用操作">
     <configuration name="1.1算术运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON-python-study" />
       <option name="ENV_FILES" value="" />
@@ -207,6 +161,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="H:\projects\PYTHON-python-study\基础\1.3 比较运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.2字符串的常用操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON-python-study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/2.2字符串的常用操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,19 +264,19 @@
     <list>
       <item itemvalue="Python.3.2切片" />
       <item itemvalue="Python.exe" />
+      <item itemvalue="Python.2.2字符串的常用操作" />
       <item itemvalue="Python.1.1算术运算符" />
       <item itemvalue="Python.1.2 赋值运算符" />
       <item itemvalue="Python.1.3 比较运算符" />
       <item itemvalue="Python.3.1容器" />
-      <item itemvalue="Python.股票策略测试示例" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.2字符串的常用操作" />
         <item itemvalue="Python.1.3 比较运算符" />
         <item itemvalue="Python.1.2 赋值运算符" />
         <item itemvalue="Python.1.1算术运算符" />
         <item itemvalue="Python.3.1容器" />
-        <item itemvalue="Python.股票策略测试示例" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +355,23 @@
       <option name="project" value="LOCAL" />
       <updated>1614095953090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006">
+      <option name="closed" value="true" />
+      <created>1749562460651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749562460651</updated>
+    </task>
+    <task id="LOCAL-00007" summary="调整结构">
+      <option name="closed" value="true" />
+      <created>1749562567075</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749562567075</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +392,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="pandas" />
     <MESSAGE value="selinum study" />
-    <option name="LAST_COMMIT_MESSAGE" value="selinum study" />
+    <MESSAGE value="调整结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整结构" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PYTHON_python_study$.coverage" NAME="股票策略测试示例 Coverage Results" MODIFIED="1618755775430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/akshare" />
@@ -415,7 +409,8 @@
     <SUITE FILE_PATH="coverage/PYTHON_python_study$TestPassAurgsFromScript.coverage" NAME="TestPassAurgsFromScript Coverage Results" MODIFIED="1599986890287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1595945832810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyecharts" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$upload.coverage" NAME="upload Coverage Results" MODIFIED="1605408274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
-    <SUITE FILE_PATH="coverage/PYTHON_python_study$1_3_.coverage" NAME="1.3 比较运算符 Coverage Results" MODIFIED="1749477791246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$1_3_.coverage" NAME="1.3 比较运算符 Coverage Results" MODIFIED="1749562851879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_python_study$2_2.coverage" NAME="2.2字符串的常用操作 Coverage Results" MODIFIED="1749567344893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$1_2_.coverage" NAME="1.2 赋值运算符 Coverage Results" MODIFIED="1749477547593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON_python_study$pySpark.coverage" NAME="pySpark Coverage Results" MODIFIED="1614095839876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyspark_study" />
   </component>

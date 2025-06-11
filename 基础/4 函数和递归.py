@@ -61,6 +61,21 @@ def funcPara(x,y,cp=None):
 
 print(funcPara(2,1,paraFunc))
 
+
+#把容器传给函数
+def fun(a,b,c):
+    print("a=",a)
+    print("b=",b)
+    print("c=",c)
+
+paraList=[1,2,3]
+# fun(paraList)  #会报错
+fun(*paraList) #会把list 中的每个元素拆开然后传递给函数
+
+paraDict={"a":11,"c":33,"b":22}
+fun(**paraDict) #用2个** 传递
+
+
 #递归 写斐波拉契
 # def fib(n):
 #     if n < 1:
